@@ -4,7 +4,7 @@
 
 ### **Qui suis-je ?**
 
-Je m'appelle Margot, je suis passionnée par les jeux vidéos depuis ma plus tendre enfance. C'est donc tout naturellement que j'ai décidé d'en apprendre plus sur leur fonctionnement. C'est ainsi que j'ai découvert le développement web et sans grande surprise je me suis prise de passion pour le code ! 😎
+Je m'appelle Margot, je suis passionnée par les jeux vidéos depuis ma plus tendre enfance. C'est donc tout naturellement que j'ai décidé d'en apprendre plus sur leurs fonctionnements. C'est ainsi que j'ai découvert le développement web et sans grande surprise je me suis prise de passion pour le code ! 😎
 
 <br/>
 
