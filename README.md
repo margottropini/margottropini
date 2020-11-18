@@ -27,4 +27,6 @@ Je m'appelle Margot, je suis passionnée par les jeux vidéos depuis ma plus ten
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=margottropini&layout=compact" /> -->
 
-[Lien vers mon profil LinkedIn](https://www.linkedin.com/in/margot-tropini-%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-81680a19b/)
+<br/>
+
+👉🏻 [Lien vers mon profil LinkedIn](https://www.linkedin.com/in/margot-tropini-%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-81680a19b/)
