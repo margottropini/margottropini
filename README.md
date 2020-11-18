@@ -17,17 +17,12 @@ Je m'appelle Margot, je suis passionnée par les jeux vidéos depuis ma plus ten
 **Quelques technologies à mon actif :**
 <br/>
 
-<img src="./assets/js.png " width='50' >
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<img src="./assets/css.png " width='50' >
-
-<img src="./assets/react.svg " width='50' >
-
-<img src="./assets/node.jpg " width='50'  >
-
-<img src="./assets/redux.png " width='50' >
-
-<img src="./assets/sql.jpg " width='50' >
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=
-margottropini&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=margottropini&layout=compact" />
