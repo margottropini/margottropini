@@ -1,4 +1,4 @@
-<img src="./assets/hey.gif">/>
+<img src="./assets/hey.gif"/>
 
 ## <em>Bienvenue sur mon Github</em> 👋🤗
 
